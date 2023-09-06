@@ -1,4 +1,5 @@
-<!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32b6ff&height=120&section=header"/-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32b6ff&height=120&section=header"/>
+<br>
 <br>
 <br>
 <div align="center">
@@ -34,8 +35,8 @@
 <br>
   <br>
 <div align="center">
-  <a href="https://twitter.com/Lin_monts"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-  <a href="https://www.linkedin.com/in/alinemonts/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="https://twitter.com/Lin_monts"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></img></a>
+  <a href="https://www.linkedin.com/in/alinemonts/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
    <a href = "mailto:lin_monts@programmer.net"><img src="https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -46,7 +47,7 @@
 </div-->
 <br>
   <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32b6ff&height=120&section=footer"/>
+<!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32b6ff&height=120&section=footer"/-->
 <!--
 **alinemonts/alinemonts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
