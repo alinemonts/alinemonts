@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<div align="center">
+<!--div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=32B6FF&center=true&vCenter=true&width=435&lines=Hello+there!;My+name+is+Aline;I'm+a+software+developer" alt="Typing SVG" /></a>
 </div>
   <br>
@@ -34,7 +34,7 @@
 </div>
 <br>
   <br>
-<div align="center">
+<!--div align="center">
   <a href="https://twitter.com/Lin_monts" target="_blank"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
   <a href="https://www.linkedin.com/in/alinemonts/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
    <a href = "mailto:lin_monts@programmer.net"><img src="https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
